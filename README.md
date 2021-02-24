@@ -1,4 +1,5 @@
 # EV3DEV-robot
-En Legorobot programmerad I EV3DEV miljön
+A Legorobot programmerad I EV3DEV miljön
 
 
+Tack till Harry Lazaridis för programskelettet.
