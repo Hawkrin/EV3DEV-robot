@@ -1,5 +1,5 @@
 # EV3DEV-robot
-A Legorobot programmerad I EV3DEV miljön
+A Lego Mindstorms robot programed in the EV3DEV environment
 
 
-Tack till Harry Lazaridis för programskelettet.
+Thanks to Harry Lazaridis for help with the programskeleton.
